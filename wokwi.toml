@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/10.37M2_U4C4O12T_TarefaWLS.uf2'
+elf = 'build/10.37M2_U4C4O12T_TarefaWLS.elf'
