@@ -1,4 +1,4 @@
-# Controle de LED WS2812 com Botões no Raspberry Pi Pico
+# Controle de LED WS2812 com Botões no Raspberry Pi Pico w
 
 Este projeto demonstra o controle de uma matriz de LEDs WS2812 (RGB) organizada em uma grade 5x5 para exibir dígitos numéricos. A interação é feita através de dois botões, que permitem incrementar ou decrementar o dígito mostrado, com variação de cores conforme a ação.
 
